@@ -43,7 +43,7 @@ The implementation in `src/main.rs` showcases a **Shielded Card Engine**:
 ### Installation & Testing
 Clone the repository and run the shielded simulation:
 ```bash
-git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/arcium-shielded-games.git
+git clone [https://github.com/](https://github.com/moltaphet/arcium-shielded-games.git)
 cd arcium-shielded-games
 cargo test -- --nocapture
 
